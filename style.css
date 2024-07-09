@@ -14,9 +14,8 @@
     align-items: center;
 
     background: #6190E8;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to left, #A7BFE8, #6190E8);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to left, #A7BFE8, #6190E8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+background: -webkit-linear-gradient(to left, #A7BFE8, #6190E8); 
+background: linear-gradient(to left, #A7BFE8, #6190E8); 
 }
 .container{
     width: 90%;
@@ -133,8 +132,6 @@ font-weight: bold;
 
 .completed{
     cursor: pointer;
-
-
 }
 .completeD{
 
